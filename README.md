@@ -13,6 +13,8 @@ In simple terms, **PNPM (Performant NPM)** is a forward-thinking package managem
 
 PNPM introduces a unique approach to package management that sets it apart from its predecessors.
 
+See for a benchmark https://www.npmjs.com/package/pnpm
+
 ### Dependency Management:
 
 - **PNPM**: Utilizes a shared dependency mechanism that allows different projects to use the same copy of a package. This efficient approach minimizes duplication and reduces disk space usage.
